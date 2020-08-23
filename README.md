@@ -8,8 +8,8 @@ Udacity Bikeshare project
 Bikeshare uses python to navigate bikeshare data for Chicago, New York City, and Washington.
 
 ### Files used
-chicago.csv
-new_york_city.csv
+chicago.csv,
+new_york_city.csv,
 washington.csv
 
 ### Credits
