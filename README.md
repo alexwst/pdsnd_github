@@ -5,7 +5,7 @@
 Udacity Bikeshare project
 
 ### Description
-Bikeshare uses python to navigate bikeshare data for Chicago, New York City, and Washington.
+Bikeshare uses python to navigate Motivate's bikeshare data for Chicago, New York City, and Washington.
 
 ### Files used
 chicago.csv,
